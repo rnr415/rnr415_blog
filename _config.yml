@@ -1,0 +1,16 @@
+# Site settings
+title: Your awesome title
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+ Thoughts on understanding technologies. Starting with basics like word2vec to 
+ more advanced topics like LLMs, KG and Embedding Models. The goal is to explain
+ each of these topics in a more intuitive manner. This is also a note to self 
+ kind of blog.
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
+url: "http://rnr415.github.io" # the base hostname & protocol for your site
+# twitter_username: jekyllrb
+github_username:  rnr415
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:title:output_ext
