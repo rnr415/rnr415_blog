@@ -1,11 +1,13 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Me  # The title of your page
+permalink: /about/ # The URL where this page will be located
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Write your about page here.  You can use Markdown.  Include details about yourself, your interests, etc.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+For example:
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+## About Me
+
+Hi, I'm rnr415, and I'm a tech blogger.  I write about nlp, dl, ml.  You can find me on abc_xyz.
