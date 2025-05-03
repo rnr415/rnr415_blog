@@ -1,7 +1,8 @@
 ---
-title: My Simple Homepage
+layout: default
+title: My Homepage
 ---
 
-# Welcome to my website!!!
+# Welcome to my website!
 
-This is a basic homepage powered by Jekyll and hosted on GitHub Pages.
+This is the main content of my homepage. It will be inserted into the `{{ content }}` area of the `default` layout.
