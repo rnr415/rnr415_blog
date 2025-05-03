@@ -1,5 +1,5 @@
 # Site settings
-title: Your awesome title
+title: Blogging on NLP, DL and more...
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
  Thoughts on understanding technologies. Starting with basics like word2vec to 
