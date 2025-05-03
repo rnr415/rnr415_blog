@@ -12,5 +12,11 @@ url: "http://rnr415.github.io" # the base hostname & protocol for your site
 github_username:  rnr415
 
 # Build settings
+#permalink: /:year/:title:output_ext
 markdown: kramdown
-permalink: /:year/:title:output_ext
+theme: minima # Use Minima, or another theme.  See available themes below.
+plugins:
+  - jekyll-feed # optional, creates an RSS feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
