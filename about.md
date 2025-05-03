@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me  # The title of your page
-permalink: /rnr415_blog/about/ # The URL where this page will be located
+permalink: /about/ # The URL where this page will be located
 ---
 
 Write your about page here.  You can use Markdown.  Include details about yourself, your interests, etc.
