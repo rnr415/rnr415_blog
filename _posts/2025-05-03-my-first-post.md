@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  My First Blog Post # Title of your blog post
-date:   2024-08-01 12:00:00 +0000 # Date and time of the post
+date:   2025-05-03 # Date of the post
 #categories: jekyll # Optional: categories
 ---
 
