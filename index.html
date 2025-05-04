@@ -17,10 +17,15 @@
       <h2>Latest Posts</h2>
       <ul>
         {% for post in site.posts %}
-          <li>
+<!--          <li>
             <a href="{{ post.url }}">{{ post.title }}</a>
             <small>{{ post.date | date: "%b %-d, %Y" }}</small>
-          </li>
+          </li> -->
+          <div>
+            <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+            <p>{{ post.excerpt }}</p> <a href="{{ post.url }}">Read More</a>
+          </div>
+
         {% endfor %}
       </ul>
       <p><a href="/rnr415_blog/about/">About Me</a></p>
