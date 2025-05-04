@@ -2,7 +2,7 @@
 layout: post
 title:  My First Blog Post # Title of your blog post
 date:   2025-05-03 # Date of the post
-#categories: jekyll # Optional: categories
+categories: rnr415_blog # Optional: categories
 ---
 
 This is my first blog post!  I'm writing about how to set up a Jekyll blog on GitHub Pages.
