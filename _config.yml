@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
  more advanced topics like LLMs, KG and Embedding Models. The goal is to explain
  each of these topics in a more intuitive manner. This is also a note to self 
  kind of blog.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/rnr415_blog/" # the subpath of your site, e.g. /blog/
 url: "http://rnr415.github.io" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username:  rnr415
