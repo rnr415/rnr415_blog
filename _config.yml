@@ -15,8 +15,8 @@ github_username:  rnr415
 #permalink: /:year/:title:output_ext
 markdown: kramdown
 theme: minima # Use Minima, or another theme.  See available themes below.
-plugins:
-  - jekyll-feed # optional, creates an RSS feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
+#plugins:
+#  - jekyll-feed # optional, creates an RSS feed
+#exclude:
+#  - Gemfile
+#  - Gemfile.lock
